@@ -1,6 +1,6 @@
 #  不要再說好累哦
 
-##  下載DBMS_final.zip檔,執行app_DBMS.py檔.開始localhost.
+##  下載DBMS_final.zip檔,執行app_DBMS.py檔.開啟localhost.
     查詢功能:查詢結標記錄和標案時,輸入標案ID
             查詢投標記錄時,輸入標案ID和公司ID
     
